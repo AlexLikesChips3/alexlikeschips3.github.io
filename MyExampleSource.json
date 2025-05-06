@@ -1,0 +1,148 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Minecraft PE",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Minecraft",
+      "localizedDescription": "0.16.1",
+      "iconURL": "https://i.imgur.com/qJdpld6.png",
+      "tintColor": "#7cbc46",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMainNibFile": "MainWindow"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "NOVARIN",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "marketplaceID": "",
+      "developerName": "Novarin, ROBLOX (Roblox)",
+      "subtitle": "",
+      "localizedDescription": "An Old Roblox Revival.",
+      "iconURL": "https://i.imgur.com/s2FiZlM.png",
+      "tintColor": "#4186fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "PojavLauncher, Mojang",
+      "subtitle": "MCJava for iOS",
+      "localizedDescription": "Needs JIT.",
+      "iconURL": "https://i.imgur.com/zz7zOIh.png",
+      "tintColor": "#d02e2e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "KAMARI",
+      "bundleIdentifier": "com.roblox.robloxmobil1",
+      "marketplaceID": "",
+      "developerName": "Kamari Inc.",
+      "subtitle": "A Roblox revival.",
+      "localizedDescription": "You can only join by using JoinURLs.",
+      "iconURL": "https://i.imgur.com/qcJdkJn.png",
+      "tintColor": "#d01d20",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iDOS 3",
+      "bundleIdentifier": "com.litchie.idos3",
+      "marketplaceID": "",
+      "developerName": "I don’t know!",
+      "subtitle": "iDOS",
+      "localizedDescription": "iDOS 64 bit",
+      "iconURL": "https://i.imgur.com/PSjG7EX.png",
+      "tintColor": "#042ef4",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.rgvi87bci8.4b7nvitnet",
+      "marketplaceID": "",
+      "developerName": "Mojang",
+      "subtitle": "MCSM",
+      "localizedDescription": "MCSM (Episode 1 only, 64bit)",
+      "iconURL": "https://i.imgur.com/araJ2YY.png",
+      "tintColor": "#c02804",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.telltalegames.MC100",
+      "marketplaceID": "",
+      "developerName": "Mojang",
+      "subtitle": "MCSM",
+      "localizedDescription": "MCSM (Episode 1 only)",
+      "iconURL": "https://i.imgur.com/uuCICTg.png",
+      "tintColor": "#c02804",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
